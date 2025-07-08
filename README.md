@@ -2,8 +2,8 @@
 O que é a Assessoria empresarial?
 A Assessoria empresarial é uma empresa que visa garantir a excelência de seus alunos.
 Quais os objetivos da empresa?
-Grarantir a excelência de seus alunos;
-Realizar sonhos;
+1. Grarantir a excelência de seus alunos;
+2. Realizar sonhos;
 
 Objetivo deste site é fornecer as informações dos planos que são disponibilizados pela mesma.
 
